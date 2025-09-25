@@ -9,20 +9,22 @@
 
 | Технические навыки | Бизнес-навыки |
 |--------------------|---------------|
-| ▶ Продвинутый промптинг | ▶ Оптимизация бизнес-процессов |
-| ▶ Разработка чат-ботов, GPTs, Actions, нейроассистентов | ▶ Командная работа |
-| ▶ Автоматизация процессов (N8N, Make, API-интеграции)   | ▶ Подготовка документации |
-| ▶ Генерация и адаптация контента с помощью LLM   | ▶ Юридические аспекты |
+| ◾ Продвинутый промптинг | ◾ Оптимизация бизнес-процессов |
+| ◾ Разработка чат-ботов, GPTs, Actions, нейроассистентов | ◾ Командная работа |
+| ◾ Автоматизация процессов (N8N, Make, API-интеграции)   |◾ Подготовка документации |
+| ◾ Генерация и адаптация контента с помощью LLM   | ◾ Юридические аспекты |
 
 
 ## 🛠️ Технологический стек
 
-### 🤖 ИИ/ML  
-OpenAI (GPTs, API) · ElevenLabs · Prompt Engineering  
+### 🤖 ИИ / ML
+![OpenAI](https://img.shields.io/badge/OpenAI_GPTs-412991?style=for-the-badge&logo=openai&logoColor=white)  ![OpenAI API](https://img.shields.io/badge/OpenAI_API-000000?style=for-the-badge&logo=openai&logoColor=white)  ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-FF6F00?style=for-the-badge&logo=elevenlabs&logoColor=white)  ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-1E90FF?style=for-the-badge&logo=semanticweb&logoColor=white)  
 
-### 💻 Программирование и инфраструктура  
-n8n · Make · Cursor · VS Code
-SaleBot, Savvy, Aimylogic  
+### 💻 Программирование и инфраструктура
+![n8n](https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white)  ![Make](https://img.shields.io/badge/Make-2E86C1?style=for-the-badge&logo=make&logoColor=white)  ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+
+### 🤝 Чат-боты
+![SaleBot](https://img.shields.io/badge/SaleBot-FF4500?style=for-the-badge&logo=chatbot&logoColor=white)  ![Savvy](https://img.shields.io/badge/Savvy-6A5ACD?style=for-the-badge&logo=chatbot&logoColor=white)  ![Aimylogic](https://img.shields.io/badge/Aimylogic-20B2AA?style=for-the-badge&logo=chatbot&logoColor=white)  ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)  
 
 ---
 
@@ -31,18 +33,6 @@ SaleBot, Savvy, Aimylogic
 - **Контент-студия** с заданным tone-of-voice и мультиязычной адаптацией – генерирует статьи для сайта на 4 языках, адаптирует тексты для соцсетей.
 - **HR-ассистент** в Telegram – предоставляет информацию о вакансиях в компании, консультирует соискателей и помогает подобрать подходящую вакансию.
 - **Ивент-бот** – предоставляет информацию о мероприятии и брендах-участниках, рассылает напоминания и ссылки на полезные материалы.
-
----
-
-## 🛠️ Технологии и инструменты
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![N8N](https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white)  
-![Make](https://img.shields.io/badge/Make-2E86C1?style=for-the-badge&logo=make&logoColor=white)  
-![GPT](https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white)  
-![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)  
-![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)  
-![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)  
 
 ---
 
