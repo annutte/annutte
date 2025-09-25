@@ -1,7 +1,7 @@
 # 🧩 Промпт-инженер
 
-**Создаю чат-ботов, AI-ассистентов и автоматизации для бизнеса.** 
-Более 18 лет в маркетинге и последние годы — в сфере **искусственного интеллекта и нейросетей**.  
+**Создаю чат-ботов, AI-ассистентов и автоматизации для бизнеса.**  
+Более 18 лет в маркетинге и последние годы — в сфере искусственного интеллекта и нейросетей.  
 
 ---
 
@@ -9,37 +9,29 @@
 
 | Технические навыки | Бизнес-навыки |
 |--------------------|---------------|
-| ◾ Продвинутый промптинг | ◾ Оптимизация бизнес-процессов |
-| ◾ Разработка чат-ботов, GPTs, Actions, нейроассистентов | ◾ Командная работа |
-| ◾ Автоматизация процессов (N8N, Make, API-интеграции)   |◾ Подготовка документации |
-| ◾ Генерация и адаптация контента с помощью LLM   | ◾ Юридические аспекты |
+| ◽ Продвинутый промптинг | ◽ Оптимизация бизнес-процессов |
+| ◽ Разработка чат-ботов, GPTs, Actions, нейроассистентов | ◽ Командная работа |
+| ◽ Автоматизация процессов (N8N, Make, API-интеграции)   |◽ Подготовка документации |
+| ◽ Генерация и адаптация контента с помощью LLM   | ◽ Юридические аспекты |  
 
+  
 
 ## 🛠️ Технологический стек
 
-### 🤖 ИИ / ML
-![OpenAI](https://img.shields.io/badge/OpenAI_GPTs-412991?style=for-the-badge&logo=openai&logoColor=white)  ![OpenAI API](https://img.shields.io/badge/OpenAI_API-000000?style=for-the-badge&logo=openai&logoColor=white)  ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-FF6F00?style=for-the-badge&logo=elevenlabs&logoColor=white)  ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-1E90FF?style=for-the-badge&logo=semanticweb&logoColor=white)  
+![OpenAI](https://img.shields.io/badge/OpenAI_GPTs-412991?style=for-the-badge&logo=openai&logoColor=white)  ![OpenAI API](https://img.shields.io/badge/OpenAI_API-000000?style=for-the-badge&logo=openai&logoColor=white)  ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-FF6F00?style=for-the-badge&logo=elevenlabs&logoColor=white)  ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-1E90FF?style=for-the-badge&logo=semanticweb&logoColor=white)    
 
-### 💻 Программирование и инфраструктура
-![n8n](https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white)  ![Make](https://img.shields.io/badge/Make-2E86C1?style=for-the-badge&logo=make&logoColor=white)  ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+![n8n](https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white)  ![Make](https://img.shields.io/badge/Make-2E86C1?style=for-the-badge&logo=make&logoColor=white)  ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)    
 
-### 🤝 Чат-боты
-![SaleBot](https://img.shields.io/badge/SaleBot-FF4500?style=for-the-badge&logo=chatbot&logoColor=white)  ![Savvy](https://img.shields.io/badge/Savvy-6A5ACD?style=for-the-badge&logo=chatbot&logoColor=white)  ![Aimylogic](https://img.shields.io/badge/Aimylogic-20B2AA?style=for-the-badge&logo=chatbot&logoColor=white)  ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)  
+![SaleBot](https://img.shields.io/badge/SaleBot-FF4500?style=for-the-badge&logo=chatbot&logoColor=white)  ![Savvy](https://img.shields.io/badge/Savvy-6A5ACD?style=for-the-badge&logo=chatbot&logoColor=white)  ![Aimylogic](https://img.shields.io/badge/Aimylogic-20B2AA?style=for-the-badge&logo=chatbot&logoColor=white)  ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)    
 
----
+  
 
 ## 🚀 Реализованные проекты
 - **Генератор уникальных SEO-описаний** – сокращает время оформления страниц товаров на 40%.
 - **Контент-студия** с заданным tone-of-voice и мультиязычной адаптацией – генерирует статьи для сайта на 4 языках, адаптирует тексты для соцсетей.
 - **HR-ассистент** в Telegram – предоставляет информацию о вакансиях в компании, консультирует соискателей и помогает подобрать подходящую вакансию.
-- **Ивент-бот** – предоставляет информацию о мероприятии и брендах-участниках, рассылает напоминания и ссылки на полезные материалы.
+- **Ивент-бот** – предоставляет информацию о мероприятии и брендах-участниках, рассылает напоминания и ссылки на полезные материалы.  
 
 ---
 
-## 📫 Связаться со мной
-[![Email](https://img.shields.io/badge/Email-anna.mikhalina%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anna.mikhalina@gmail.com)  
-[![VK](https://img.shields.io/badge/VK-@a__mikhalina-4680C2?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/a_mikhalina)  
-
----
-
-✨ В моём портфолио вы найдёте проекты, связанные с **AI, автоматизацией и маркетингом**. Я открыта к сотрудничеству и интересным задачам!
+**📫 Связаться со мной** → 📩 [Email](mailto:anna.mikhalina@gmail.com) | 💬 [Telegram](https://t.me/a_mikhalina) | 🌐 [VK](https://vk.com/a_mikhalina)
