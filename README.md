@@ -21,7 +21,8 @@
 
 ![OpenAI](https://img.shields.io/badge/OpenAI_GPTs-412991?style=for-the-badge&logo=openai&logoColor=white)  ![OpenAI API](https://img.shields.io/badge/OpenAI_API-000000?style=for-the-badge&logo=openai&logoColor=white)  ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-FF6F00?style=for-the-badge&logo=elevenlabs&logoColor=white)  ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-1E90FF?style=for-the-badge&logo=semanticweb&logoColor=white)    
 
-![n8n](https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white)  ![Make](https://img.shields.io/badge/Make-2E86C1?style=for-the-badge&logo=make&logoColor=white)  ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)    
+![n8n](https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white)  ![Make](https://img.shields.io/badge/Make-2E86C1?style=for-the-badge&logo=make&logoColor=white)  ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)![Google PSE](https://img.shields.io/badge/Google_PSE-–?style=for-the-badge&logo=google&logoColor=white)
+    
 
 ![SaleBot](https://img.shields.io/badge/SaleBot-FF4500?style=for-the-badge&logo=chatbot&logoColor=white)  ![Savvy](https://img.shields.io/badge/Savvy-6A5ACD?style=for-the-badge&logo=chatbot&logoColor=white)  ![Aimylogic](https://img.shields.io/badge/Aimylogic-20B2AA?style=for-the-badge&logo=chatbot&logoColor=white)  ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)    
 
