@@ -22,9 +22,7 @@
 
 ![n8n](https://img.shields.io/badge/n8n-E04C6B?style=for-the-badge&logo=n8n&logoColor=white)  ![Make](https://img.shields.io/badge/Make-2E86C1?style=for-the-badge&logo=make&logoColor=white)  ![Cursor](https://img.shields.io/badge/Cursor-3B3B3B?style=for-the-badge&logo=visualstudiocode&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)  ![Google PSE](https://img.shields.io/badge/Google_PSE-FF6633?style=for-the-badge&logo=google&logoColor=white) [![Grist](https://img.shields.io/badge/Grist-11A57A?style=for-the-badge&logo=grist&logoColor=white)](https://www.getgrist.com)  
   
-![SaleBot](https://img.shields.io/badge/SaleBot-0066CC?style=for-the-badge&logo=chatbot&logoColor=white)  ![Савви](https://img.shields.io/badge/Савви-6A5ACD?style=for-the-badge&logo=chatbot&logoColor=white)  ![Aimylogic](https://img.shields.io/badge/Aimylogic-20B2AA?style=for-the-badge&logo=chatbot&logoColor=white)  ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)    
-  
-[![Tilda](https://img.shields.io/badge/Tilda-000000?style=for-the-badge&logo=tildapublishing&logoColor=white)](https://tilda.cc)  
+![SaleBot](https://img.shields.io/badge/SaleBot-0066CC?style=for-the-badge&logo=chatbot&logoColor=white)  ![Савви](https://img.shields.io/badge/Савви-6A5ACD?style=for-the-badge&logo=chatbot&logoColor=white)  ![Aimylogic](https://img.shields.io/badge/Aimylogic-20B2AA?style=for-the-badge&logo=chatbot&logoColor=white)  ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)  [![Tilda](https://img.shields.io/badge/Tilda-000000?style=for-the-badge&logo=tildapublishing&logoColor=white)](https://tilda.cc)  
 
 <br>    
 
